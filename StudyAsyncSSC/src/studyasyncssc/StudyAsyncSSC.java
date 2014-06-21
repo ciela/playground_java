@@ -8,7 +8,7 @@ package studyasyncssc;
 
 /**
  *
- * @author ota_kazuhiro
+ * @author ciela
  */
 public class StudyAsyncSSC {
 
